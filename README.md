@@ -9,4 +9,4 @@ cmake --build build
 ```
 
 # Documentation
-(More info can be found here)[https://rodeytech.com/2024/03/20/setup-a-simple-cmake-project-for-a-c-c-application/]
+[More info can be found here](https://rodeytech.com/2024/03/20/setup-a-simple-cmake-project-for-a-c-c-application/)
